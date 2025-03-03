@@ -10,4 +10,4 @@ In the Binomial Option Pricing folder, you will find:
 
 In the Backtesting folder, you will find a framework that can be used to backtest any strategy
 
-In the Pair Trading folder, there will be 2 Jupyter notebooks files : The first one about Engle-Granger Cointegration, and the second one about determination of optimal Entry/Exit bounds via cointegration
+In the Pair Trading folder, there is 2 Jupyter notebooks files : The first one about Engle-Granger Cointegration, and the second one about determination of optimal Entry/Exit bounds via cointegration

@@ -8,6 +8,6 @@ In the Black_Scholes folder, you will find:
 In the Binomial Option Pricing folder, you will find:
 - A Jupyter notebook file (.ipynb), where I explain the logic behind the screener and the formulas used.
 - A Python file (.py), containing the screener code.
-- A screenshot of the functional screener, supporting Call/Put options and both European and American options.
+- A screenshot of the functional screener, supporting Call/Put for European options.
 
 In the Backtesting folder, you will find a framework that can be used to backtest any strategy

@@ -1,3 +1,5 @@
+In the Advanced Strategies folder, you'll find various strategies on which i do some research ; and some that i use in live (without what's make my alpha, of course)
+
 In the Pair Trading folder, there is 2 Jupyter notebooks files : The first one about Engle-Granger Cointegration, and the second one about determination of optimal Entry/Exit bounds via cointegration
 
 In the Black_Scholes folder, you will find:

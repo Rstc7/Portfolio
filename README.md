@@ -23,4 +23,4 @@ The derivatives pricer is built with **Streamlit** for real-time visualization a
 ## 🚀 Multi-Factor Portfolio Builder
 The portfolio builder is built with **Streamlit** for real-time visualization.
 
-🔗 **[Launch the Derivatives Lab App](https://multifactor-portfolio-builder.streamlit.app/)**
+🔗 **[Launch the Portfolio Builder](https://multifactor-portfolio-builder.streamlit.app/)**

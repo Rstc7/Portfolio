@@ -1,15 +1,22 @@
-In the Advanced Strategies folder, you’ll find the models I’m currently researching alongside those I use in live trading (with my core alpha removed for privacy).
+# Quantitative Research & Trading Repository
 
-In the Pair Trading folder, there is 2 Jupyter notebooks files : The first one about Engle-Granger Cointegration, and the second one about determination of optimal Entry/Exit bounds via cointegration
+This repository serves as a centralized hub for my quantitative research, derivative pricing tools, and live trading infrastructure.
 
-In the Black_Scholes folder, you will find:
-- A Jupyter notebook file (.ipynb), where I demonstrate the calculation functions for each parameter, along with the formulas and logic.
-- A Python file (.py), where I showcase the screener code, based on the functions presented in the notebook.
-- A screenshot of the functional screener.
+## 📂 Repository Structure
 
-In the Binomial Option Pricing folder, you will find:
-- A Jupyter notebook file (.ipynb), where I explain the logic behind the screener and the formulas used.
-- A Python file (.py), containing the screener code.
-- A screenshot of the functional screener, supporting Call/Put for European options.
+| Folder | Description |
+| :--- | :--- |
+| **`Advanced_Strategies/`** | Production-ready models currently used in live trading (core alpha logic removed). |
+| **`Derivatives/`** | The Derivatives Lab: A comprehensive pricing suite for vanillas and exotic options. |
+| **`Pipelines/`** | Data ingestion and execution pipelines for automated live trading. |
+| **`Pair_Trading/`** | Statistical arbitrage analysis: Engle-Granger cointegration & dynamic entry/exit optimization. |
+| **`Research/`** | Ongoing R&D, backtesting, and exploratory quantitative models. |
+| **`Old/`** | Legacy code, foundational scripts, and early prototypes. |
 
-In the Backtesting folder, you will find a framework that can be used to backtest any strategy
+---
+
+## 🚀 Derivatives Lab
+The derivatives pricer is built with **Streamlit** for real-time visualization and sensitivity analysis.
+
+🔗 **[Launch the Derivatives Lab App](YOUR_URL_HERE)**
+
